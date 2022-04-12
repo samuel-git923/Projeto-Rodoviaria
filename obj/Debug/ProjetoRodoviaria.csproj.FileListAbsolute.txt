@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\bin\Debug\ProjetoRodoviaria.exe.config
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\bin\Debug\ProjetoRodoviaria.exe
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\bin\Debug\ProjetoRodoviaria.pdb
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\obj\Debug\ProjetoRodoviaria.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\obj\Debug\ProjetoRodoviaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\obj\Debug\ProjetoRodoviaria.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\obj\Debug\ProjetoRodoviaria.exe
+C:\Users\Caetano\source\repos\ProjetoRodoviaria\ProjetoRodoviaria\obj\Debug\ProjetoRodoviaria.pdb
